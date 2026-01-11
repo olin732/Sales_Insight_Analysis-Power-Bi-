@@ -71,6 +71,6 @@ Regional Anlysis: Except Riyadh all the region showing decreasing trend in terms
 
 
 ### 6. Screenshot/Demos
-![image alt]()
+![image alt](https://github.com/olin732/Sales_Insight_Analysis-Power-Bi-/blob/34ecc4bbfb502d12d0160f2f3a8fca8541210e2c/PowerBi%20Dashboard.png)
 
 
